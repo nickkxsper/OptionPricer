@@ -10,8 +10,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install numpy scipy matplotlib
 
 
-csharp
-Copy code
 # OptionPricer
 
 OptionPricer is a Python library for pricing options using various methods, including Black-Scholes, Monte Carlo, and Leisen-Reimer Binomial Tree. It also provides functionality to plot the payoff of a set of options and visualize the implied volatility surface.
