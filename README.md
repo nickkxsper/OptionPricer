@@ -20,9 +20,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 
 ```bash
 pip install numpy scipy matplotlib
-Usage
-python
-Copy code
+
+## Usage
 from option_pricer import OptionPricer
 import numpy as np
 
